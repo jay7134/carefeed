@@ -21,23 +21,9 @@
 					<div class="carousel-cell">
 						<img loading="lazy" src="<?php the_field('integration_image_5');?>" alt=""/>
 					</div>
-					<div class="carousel-cell">
-						<img loading="lazy" src="<?php the_field('integration_image_1');?>" alt=""/>
-					</div>
-					<div class="carousel-cell">
-						<img loading="lazy" src="<?php the_field('integration_image_2');?>" alt=""/>
-					</div>
-					<div class="carousel-cell">
-						<img loading="lazy" src="<?php the_field('integration_image_3');?>" alt=""/>
-					</div>
-					<div class="carousel-cell">
-						<img loading="lazy" src="<?php the_field('integration_image_4');?>" alt=""/>
-					</div>
-					<div class="carousel-cell">
-						<img loading="lazy" src="<?php the_field('integration_image_5');?>" alt=""/>
-					</div>
-
 				</div>
+
+			</div>
 			</div>
 		</div>
 	</div>
