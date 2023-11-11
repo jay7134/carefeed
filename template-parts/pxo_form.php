@@ -10,8 +10,8 @@
 						<h4><?php the_field('free_evaluation'); ?></h4>
 					</div>
 				</div>
-				<h2><?php the_field('improve_patient_experience');?></h2>
-				<h3><?php the_field('marketing_text');?></h3>
+				<h2><?php the_field('free_evaluation_heading');?></h2>
+				
 			</div>
 			<div>
 				<?php the_field('form_shortcode'); ?>
