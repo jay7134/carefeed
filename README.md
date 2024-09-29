@@ -2,7 +2,7 @@
 
 Welcome to the CareFeed WordPress Theme repository! This custom theme is specifically designed for CareFeed, providing a tailored solution to enhance the online presence of care-related services.
 
-##Features
+## Features
 - **Responsive Design**: Ensures optimal viewing on all devices, from desktops to smartphones.
 - **Customizable Layouts**: Easy-to-use options to modify the layout to fit the unique needs.
 - **User-Friendly Interface**: Designed with usability in mind, making it simple for both administrators and end-users to navigate.
